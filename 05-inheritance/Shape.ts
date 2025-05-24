@@ -26,3 +26,5 @@ export class Shape {
     return `x = ${this._x}, y = ${this._y} `;
   }
 }
+
+//test
