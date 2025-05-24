@@ -28,3 +28,4 @@ export class Shape {
 }
 
 //test
+console.log("test");
